@@ -11,7 +11,11 @@ body {
   font-size: 22px;
 	font-weight: 100;
 	background-attachment: fixed;
-}
+  /* background-image: url(images/fon.webp)
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: fixed; */
+} 
 
 .blocks {
   text-align: center;
@@ -21,4 +25,12 @@ body {
   height: 200px;
   width: 500px;
   line-height: 70px;
+}
+
+.imena {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  
 }
