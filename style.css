@@ -11,11 +11,15 @@ body {
   font-size: 22px;
 	font-weight: 100;
 	background-attachment: fixed;
-  /* background-image: url(images/fon.webp)
-  background-repeat: no-repeat;
-  background-size: cover;
-  background: fixed; */
+  background-color: #baf0e4;
+  
 } 
+
+button:hover {
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: aqua;
+}
 
 .blocks {
   text-align: center;
@@ -25,6 +29,7 @@ body {
   height: 200px;
   width: 500px;
   line-height: 70px;
+  background-color: #9ecde9;
 }
 
 .imena {
